@@ -1,0 +1,9 @@
+{
+	"name": "abhishekyadav1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60c90801-f551-4342-b0e7-8ca828b19b1c",
+		"tenantId": "efe7da84-95ce-4642-a12a-ae3f6a498e9a"
+	}
+}
